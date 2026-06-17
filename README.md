@@ -7,7 +7,7 @@ A simple, static HTML product launch page for the **PlayStation 5 (PS5)**, showc
 ## 📄 About
 
 This project is a single-page HTML website built to simulate a product launch page for Sony's PlayStation 5. It provides a clean, structured overview of the console's highlights, specs, and regional pricing — similar to what you'd see on an official product announcement page.
-
+jvndfjvnefjvnmsc
 ---
 
 ## 🚀 Features Covered
