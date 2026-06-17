@@ -1,4 +1,4 @@
-# 🎮 Gadget Launch Page — PS5
+# 🎮 Gadget Launch Page — PS5 knfmnf
 
 A simple, static HTML product launch page for the **PlayStation 5 (PS5)**, showcasing its features, technical specifications, worldwide pricing, and launch history.
 
