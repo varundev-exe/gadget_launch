@@ -12,7 +12,7 @@ This project is a single-page HTML website built to simulate a product launch pa
 
 ## 🚀 Features Covered
 
-- **Console Features** — Ultra-fast SSD, Ray Tracing, 4K/HDR gaming, DualSense haptic feedback, 3D audio, PS4 backward compatibility, and PlayStation VR support.dkjkn efj
+- **Console Features** — Ultra-fast SSD, Ray Tracing, 4K/HDR gaming, DualSense haptic feedback, 3D audio, PS4 backward compatibility, and PlayStation VR support.
 - **Technical Specifications** — CPU, GPU, RAM, Storage, Video Output, Audio, and Connectivity details.
 - **Launch History** — Global launch (November 2020) and India-specific launch (February 2021).
 - **Worldwide Pricing Table** — Standard and Digital Edition prices for the USA, UK, Europe, India, Australia, and Japan.
